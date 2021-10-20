@@ -1,9 +1,7 @@
 package Package1;
 
-public class MyFirstFile {
-
+public class SeventhClass {
     public static void main(String[] args) {
-        // dejah
-        // Yurii
+        System.out.println("HELLO HELLO");
     }
 }
